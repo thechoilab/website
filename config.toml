@@ -1,0 +1,115 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "The Choi Lab"
+# things like title are currently being defined in "head.html"
+
+# See https://gohugo.io/getting-started/configuration/ for all config settings
+
+canonifyurls = true
+enableEmoji = true
+pluralizeListTitles = false
+
+#### Potentially useful settings:
+#menu
+#    See Add Non-content Entries to a Menu -- for instance to outside links? Not sure...
+
+##################################
+# Set copyright statement:
+# I think this sets .Site.Copyright which is a Hugo Site Variable?
+# versus [params] set below which can be referred to by .Site.Params.name?
+# This is then referred to in copyright.html
+#copyright = "&copy; Choi Lab. All rights reserved." 
+
+
+[params]
+
+#### Unused leftover lines from Blackburn theme:
+  #subtitle = "Understanding mechanisms of cancer pathogenesis"
+  #googleAnalytics = "Your Google Analytics tracking ID"
+  #disqus = "Your Disqus shortname"
+  # CSS name for highlight.js
+  #highlightjs = "androidstudio"
+  #highlightjs_extra_languages = ["yaml"]
+  #dateFormat = "02 Jan 2006, 15:04"
+  # Include any custom CSS and/or JS files
+  # (relative to /static folder)
+  #custom_css = ["css/my.css"]
+  #custom_js = ["js/my.js"]
+
+  #[params.piwikAnalytics]
+  #  siteid = 2
+  #  piwikroot = "//analytics.example.com/"
+
+# FUNNY BEHAVIOR, will instead set all of these in each page's .md file (aka "Frontmatter")
+# Otherwise cannot use .IsMenuCurrent to add class...
+[menu]
+#  Shown in the top menu.
+#  See Hugo documentation for menus: https://gohugo.io/content-management/menus/ and https://gohugo.io/variables/menus/
+  # [[menu.main]]
+  #   name = "Home"
+  #   identifier = "home"
+  #   weight = 1
+  #   url = "/"
+  # [[menu.main]]
+  #   name = "Research"
+  #   identifier = "research"
+  #   weight = 2
+  #   url = "/research/"
+  # [[menu.main]]
+  #   name = "Publications"
+  #   identifier = "publications"
+  #   weight = 3
+  #   url = "/publications/"
+  # [[menu.main]]
+  #   name = "People"
+  #   identifier = "people"
+  #   weight = 4
+  #   url = "/people/"
+  # [[menu.main]]
+  #   name = "Join"
+  #   identifier = "join"
+  #   weight = 5
+  #   url = "/join/"
+  # [[menu.main]]
+  #   name = "Contact"
+  #   identifier = "contact"
+  #   weight = 6
+  #   url = "/contact/"
+  # [[menu.main]]
+  #   name = "|Onboarding|"
+  #   identifier = "onboarding"
+  #   weight = 7
+  #   url = "/onboarding/"
+
+[social]
+  # Link your social networking accounts to the side menu
+  # by entering your username or ID.
+
+  # SNS microblogging
+  twitter = "thechoilab"
+  #gnusocial = "*" # Specify href (e.g. https://quitter.se/yourusername)
+  #facebook = "*"
+  #googleplus = "*"
+  #weibo = "*"
+  #tumblr = "*"
+
+  # SNS photo/video sharing
+  #instagram = "*"
+  #flickr = "*"
+  #photo500px = "*"
+  #pinterest = "*"
+  #youtube = "*"
+  #vimeo = "*"
+  #vine = "*"
+  #slideshare = "*"
+
+  # SNS career oriented
+  #linkedin = "*"
+  #xing = "*"
+
+  # Techie
+  github = "thechoilab"
+  #gitlab = "*"
+  #bitbucket = "*"
+  #stackoverflow = "*"
+  #serverfault = "*"

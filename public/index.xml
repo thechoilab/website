@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Choi Lab</title>
+    <link>/</link>
+    <description>Recent content on The Choi Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Oct 2018 16:21:28 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Home</title>
+      <link>/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>/research/</link>
+      <pubDate>Wed, 24 Oct 2018 16:21:28 -0400</pubDate>
+      
+      <guid>/research/</guid>
+      <description>Under construction...</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Wed, 24 Oct 2018 16:19:11 -0400</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Selected publications:\--- Selected publications: Title Author list Journal citation \ ---  An alternative splicing switch in FLNB promotes the mesenchymal cell state in human breast cancer. Li J*, Choi PS*, Chaffer CL, Labella K, Hwang JH, Giacomelli AO, Kim JW, Ilic N, Doench JG, Ly SH, Dai C, Hagel K, Hong AL, Gjoerup O, Goel S, Ge JY, Root DE, Zhao JJ, Brooks AN, Weinberg RA, Hahn WC.
+Elife. 2018 Jul 30; 7.</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/people/</link>
+      <pubDate>Wed, 24 Oct 2018 16:21:32 -0400</pubDate>
+      
+      <guid>/people/</guid>
+      <description>Peter Choi, Ph.D.
+Email: choip [at] email.chop.edu
+Position:
+Assistant Professor of Pathology and Laboratory Medicine
+Division of Cancer Pathobiology
+The Children&amp;rsquo;s Hospital of Philadelphia
+University of Pennsylvania Perelman School of Medicine
+Education &amp;amp; Training:
+Postdoctoral Fellow (Matthew Meyerson Lab)
+Dana-Farber Cancer Institute and Broad Institute
+ Ph.D. (Dean Felsher Lab)
+Stanford University School of Medicine
+
+  Michael Ruggiero, Email: ruggierom [at] email.chop.edu
+Position:
+Lab Manager (joint with Thomas-Tikhonenko Lab)</description>
+    </item>
+    
+    <item>
+      <title>Join</title>
+      <link>/join/</link>
+      <pubDate>Wed, 24 Oct 2018 16:21:36 -0400</pubDate>
+      
+      <guid>/join/</guid>
+      <description>We are recruiting at all positions! Seeking undergraduates, graduate students, research technicians and postdoctoral fellows. If interested, please contact the lab at choip [at] email.chop.edu </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Wed, 24 Oct 2018 16:21:40 -0400</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Email: choip [at] email.chop.edu Lab Address: The Children&#39;s Hospital of Philadelphia
+Colket Translational Research Building
+4th Floor Room 4400
+3501 Civic Center Blvd
+Philadelphia, PA 19104
+Office Address: Colket Translational Research Building
+4th Floor Room 4010
+  .mapouter{text-align:right;height:300px;width:300px;margin-left:auto;margin-right:auto}.gmap_canvas {overflow:hidden;background:none!important;height:300px;width:300px;margin-top:2em;margin-left:3em;border:1px solid #5b5b5b;box-shadow: 4px 4px 4px #e0e0e0;}    </description>
+    </item>
+    
+  </channel>
+</rss>

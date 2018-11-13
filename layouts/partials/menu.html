@@ -1,0 +1,30 @@
+<!-- MENU (fixed horizontal) --> 
+<div class="header">
+    <!-- "home-menu" seems to be what causes it to be left and right aligned -->
+    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+        <!-- This adds the institute logos/links -->
+        <a href="https://www.med.upenn.edu/" style="margin-left:1em"><img class="menu-brands" src="/img/Penn_logo_only.png" width="25" title="University of Pennsylvania"></a>
+        <a href="https://www.research.chop.edu/"><img class="menu-brands" src="/img/CHOP_logo_only.png" width="30" title="Children's Hospital of Philadelphia"></a>
+
+        <!-- This sets the name of the lab in the MENU -->
+        <a class="pure-menu-heading" href="">The Choi Lab</a>
+        
+        <!-- This creates the MENU list of pages -->
+        <ul class="pure-menu-list">
+            <!-- If using Hugo config.toml -->
+            <!-- https://discourse.gohugo.io/t/confusion-regarding-proper-use-of-menus/1647/2 -->
+            {{ $currentPage := . }}
+            <!-- This iterates/loops over a list of all the [[menu.main]] entries in config.toml to generate the full menu -->
+            {{ range .Site.Menus.main }}
+            <!-- printf is a function that prints, %q escapes Go syntax, and prints the value for the 'url' variable. Then can call other variables, like the Name variable -->
+            <li class="pure-menu-item">
+                <a class="pure-menu-link {{ if $currentPage.IsMenuCurrent "main" . }}pure-menu-selected{{ end }}" {{ printf "href=%q" .URL | safeHTMLAttr }}>{{ .Name }}</a>
+            </li>
+            {{ end }}
+            
+            <!-- Original version
+            <li class="pure-menu-item pure-menu-selected"><a href="#" class="pure-menu-link">Home</a></li>
+            --> 
+        </ul>
+    </div>
+</div>
