@@ -19,8 +19,8 @@ url: "/people/"
     <span style="text-decoration:none;font-weight:400">Position:</span><br>
     Assistant Professor of Pathology and Laboratory Medicine<br>
     Division of Cancer Pathobiology<br>
-    *The Children's Hospital of Philadelphia*<br>
     *University of Pennsylvania Perelman School of Medicine*<br>
+    *The Children's Hospital of Philadelphia*<br>
     <br>
     <span style="text-decoration:none;font-weight:400">Education & Training:</span><br>
     Postdoctoral Fellow <a class="link_out" href=https://meyersonlab.dana-farber.org/ target="blank">(Matthew Meyerson Lab)</a><br>

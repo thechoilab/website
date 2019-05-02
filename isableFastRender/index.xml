@@ -2,56 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Choi Lab</title>
-    <link>http://localhost:1313/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on The Choi Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Oct 2018 16:21:28 -0400</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Home</title>
-      <link>http://localhost:1313/</link>
+      <link>//localhost:1313/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/</guid>
+      <guid>//localhost:1313/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <link>//localhost:1313/research/</link>
       <pubDate>Wed, 24 Oct 2018 16:21:28 -0400</pubDate>
       
-      <guid>http://localhost:1313/research/</guid>
-      <description>Under construction...</description>
+      <guid>//localhost:1313/research/</guid>
+      <description>(Under construction...)
+We use genome engineering and functional genomics to understand cancer biology. In particular, we are interested in: * How do changes in alternative splicing promote cancer? * </description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://localhost:1313/publications/</link>
+      <link>//localhost:1313/publications/</link>
       <pubDate>Wed, 24 Oct 2018 16:19:11 -0400</pubDate>
       
-      <guid>http://localhost:1313/publications/</guid>
+      <guid>//localhost:1313/publications/</guid>
       <description>Selected publications:\--- Selected publications: Title Author list Journal citation \ ---  An alternative splicing switch in FLNB promotes the mesenchymal cell state in human breast cancer. Li J*, Choi PS*, Chaffer CL, Labella K, Hwang JH, Giacomelli AO, Kim JW, Ilic N, Doench JG, Ly SH, Dai C, Hagel K, Hong AL, Gjoerup O, Goel S, Ge JY, Root DE, Zhao JJ, Brooks AN, Weinberg RA, Hahn WC.
 Elife. 2018 Jul 30; 7.</description>
     </item>
     
     <item>
       <title>People</title>
-      <link>http://localhost:1313/people/</link>
+      <link>//localhost:1313/people/</link>
       <pubDate>Wed, 24 Oct 2018 16:21:32 -0400</pubDate>
       
-      <guid>http://localhost:1313/people/</guid>
+      <guid>//localhost:1313/people/</guid>
       <description>Peter Choi, Ph.D.
 Email: choip [at] email.chop.edu
 Position:
 Assistant Professor of Pathology and Laboratory Medicine
 Division of Cancer Pathobiology
-The Children&amp;rsquo;s Hospital of Philadelphia
 University of Pennsylvania Perelman School of Medicine
+The Children&amp;rsquo;s Hospital of Philadelphia
 Education &amp;amp; Training:
 Postdoctoral Fellow (Matthew Meyerson Lab)
 Dana-Farber Cancer Institute and Broad Institute
@@ -65,19 +66,19 @@ Lab Manager (joint with Thomas-Tikhonenko Lab)</description>
     
     <item>
       <title>Join</title>
-      <link>http://localhost:1313/join/</link>
+      <link>//localhost:1313/join/</link>
       <pubDate>Wed, 24 Oct 2018 16:21:36 -0400</pubDate>
       
-      <guid>http://localhost:1313/join/</guid>
-      <description>We are recruiting at all positions! Seeking undergraduates, graduate students, research technicians and postdoctoral fellows. If interested, please contact the lab at choip [at] email.chop.edu </description>
+      <guid>//localhost:1313/join/</guid>
+      <description>We are recruiting at all positions! Seeking undergraduates, graduate students, research technicians and postdoctoral fellows. If you are interested in joining, please contact the lab at choip [at] email.chop.edu </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Wed, 24 Oct 2018 16:21:40 -0400</pubDate>
       
-      <guid>http://localhost:1313/contact/</guid>
+      <guid>//localhost:1313/contact/</guid>
       <description>Email: choip [at] email.chop.edu Lab Address: The Children&#39;s Hospital of Philadelphia
 Colket Translational Research Building
 4th Floor Room 4400
